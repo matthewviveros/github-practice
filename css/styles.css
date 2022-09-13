@@ -1,0 +1,42 @@
+.column2{
+    float: left;
+    width: 50%;
+    height: 200px;
+}
+.firstrowcolumn1{
+    background-color: green;
+}
+.firstrowcolum2{
+    background-color: blue;
+}
+.column3{
+    float: left;
+    width: 33.33%;
+    height: 200px;
+}
+.secondrowcolumn1{
+    background-color: coral;
+}
+.secondrowcolumn2{
+    background-color: khaki;
+}
+.secondrowcolumn3{
+    background-color: mediumvioletred;
+}
+.column4{
+    float: left;
+    width: 25%;
+    height: 200px;
+}
+.thirdrowcolumn1{
+    background-color: cadetblue;
+}
+.thirdrowcolumn2{
+    background-color: red;
+}
+.thirdrowcolumn3{
+    background-color: chartreuse;
+}
+.thirdrowcolumn4{
+    background-color: goldenrod;
+}
